@@ -1,0 +1,8 @@
+{
+    "appName": "langkok",
+    "portServer": "8080",
+    "database": "langkok",
+    "authSource": "admin",
+    "user": "ownerlangkok",
+    "pass": "owner@@langkok2021"
+}
